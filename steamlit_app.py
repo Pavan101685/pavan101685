@@ -1,1 +1,2 @@
-created the mail python file
+import steamlit
+steamlit.title('Hi')
